@@ -21,11 +21,18 @@ As co-founder, I'm hands-on with the business. As CTO, I build the platform. In 
 
 **AI agents for marketing.** They run research, SEO/GEO, content, social, and paid campaigns on their own.
 
+> Almost as soon as we started using the service, we cut CPA on our video ads in half.
+>
+> <sub>Maksim Maltsev, marketing director at video-shoper.ru, an ISKRA customer ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), translated from Russian)</sub>
+
 **An enterprise AI workspace for large companies.** It gets rid of shadow AI: instead of a sprawl of personal ChatGPT, Claude Code, and Codex accounts, all agent work happens in one place the company controls.
 
+- Runs in the cloud or inside the company perimeter when data can't leave the building.
 - The company sets roles, permissions, and data access. Managers see AI usage and spend by team and can tune skills for anyone.
 - When someone leaves, their skills, artifacts, and reports stay with the company.
 - Agents push big tasks toward target metrics over the long haul, without a human nudge at every step.
+
+Pilots and rollouts: message me on [Telegram](https://t.me/heterotroph) or email [r.akhtyamov@live.com](mailto:r.akhtyamov@live.com).
 
 ### Zvuk Business / Muzlab
 **CTO** · November 2023–February 2026 &nbsp;·&nbsp; **Team Lead** · August 2021–October 2023
