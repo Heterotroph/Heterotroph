@@ -17,7 +17,7 @@
 ### [ИСКРА AI](https://iskr.ai/)
 **Сооснователь и CTO** · сентябрь 2025 – сейчас
 
-Как сооснователь веду задачи бизнеса, как CTO строю платформу. В марте 2026 года закрыли ангельский раунд, среди инвесторов основатели Muzlab, где я до этого был CTO ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta)).
+Как сооснователь веду задачи бизнеса, как CTO строю платформу. В марте 2026 года закрыли ангельский раунд, среди инвесторов основатели Muzlab, где я до этого был CTO ([Forbes](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta)).
 
 **AI-агенты для маркетинга.** Сами ведут исследования, SEO/GEO, контент, SMM и performance.
 

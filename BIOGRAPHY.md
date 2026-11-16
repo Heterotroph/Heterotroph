@@ -42,7 +42,7 @@
 
 Совмещаю задачи сооснователя по развитию бизнеса с ролью технического директора: архитектура платформы, инженерная команда и продуктовая разработка.
 
-В марте 2026 года компания привлекла ангельские инвестиции; среди инвесторов основатели Muzlab ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta)). Среди клиентов компании video-shoper.ru.
+В марте 2026 года компания привлекла ангельские инвестиции; среди инвесторов основатели Muzlab ([Forbes](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta)). Среди клиентов компании video-shoper.ru.
 
 ### Звук Бизнес (Muzlab)
 
@@ -118,7 +118,8 @@ B2B-подразделение сервиса «Звук» в экосистем
 - Статья [«Закат прикладного ПО»](https://www.linkedin.com/pulse/закат-прикладного-по-руслан-ахтямов-3vj1e/) (LinkedIn, 2026) о том, как узкоспециализированное прикладное ПО вытесняется средами на основе AI-агентов.
 - Короткие публикации на русском и английском в [Threads](https://www.threads.com/@human_embryo) и [X](https://x.com/WildHeterotroph).
 - Сообщения о дефектах и предложения по развитию открытого фреймворка [Mastra](https://github.com/mastra-ai/mastra/issues?q=author%3AHeterotroph) (подсистема Observational Memory).
-- Упоминания в прессе: [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla) и [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), март 2026 года.
+- Упоминания в прессе о раунде ИСКРЫ: [Forbes.ru](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme) (14.03.2026), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla) (16.03.2026) и [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta).
+- Комментарий об анализе рынка в проектном управлении в [колонке на RB.ru](https://rb.ru/columns/proektnoe-upravlenie-economiia/) (28.12.2023, в роли технического директора Звук Бизнес).
 
 ## Образование
 

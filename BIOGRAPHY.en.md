@@ -42,7 +42,7 @@ ISKRA AI works in two areas. The first is AI agents that carry out marketing wor
 
 I combine a co-founder's business responsibilities with the CTO role: platform architecture, the engineering team, and product development.
 
-In March 2026 the company raised an angel round; the investors include the founders of Muzlab ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), both in Russian). Customers include video-shoper.ru.
+In March 2026 the company raised an angel round; the investors include the founders of Muzlab ([Forbes](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), all in Russian). Customers include video-shoper.ru.
 
 ### Zvuk Business (Muzlab)
 
@@ -118,7 +118,8 @@ The B2B unit of the Zvuk music service within the Sber ecosystem, providing musi
 - Article [«Закат прикладного ПО»](https://www.linkedin.com/pulse/закат-прикладного-по-руслан-ахтямов-3vj1e/) ("The Sunset of Application Software", LinkedIn, 2026, in Russian) on narrow application software giving way to environments built around AI agents.
 - Short posts in Russian and English on [Threads](https://www.threads.com/@human_embryo) and [X](https://x.com/WildHeterotroph).
 - Bug reports and feature proposals for the open-source [Mastra](https://github.com/mastra-ai/mastra/issues?q=author%3AHeterotroph) framework (Observational Memory).
-- Press coverage: [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla) and [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), March 2026 (in Russian).
+- Press coverage of the ISKRA round: [Forbes.ru](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme) (March 14, 2026), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla) (March 16, 2026), and [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), all in Russian.
+- Quoted on market analysis in project management in a [column on RB.ru](https://rb.ru/columns/proektnoe-upravlenie-economiia/) (December 28, 2023, as CTO of Zvuk Business; in Russian).
 
 ## Education
 

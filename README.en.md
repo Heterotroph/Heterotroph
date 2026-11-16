@@ -17,7 +17,7 @@ I've been in software for 15+ years. I built payment kiosk UIs at QIWI, was one 
 ### [ISKRA AI](https://iskr.ai/)
 **Co-founder & CTO** · September 2025–present
 
-As co-founder, I'm hands-on with the business. As CTO, I build the platform. In March 2026 we closed an angel round. Among the investors are the founders of Muzlab, where I was CTO before ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), both in Russian).
+As co-founder, I'm hands-on with the business. As CTO, I build the platform. In March 2026 we closed an angel round. Among the investors are the founders of Muzlab, where I was CTO before ([Forbes](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), all in Russian).
 
 **AI agents for marketing.** They run research, SEO/GEO, content, social, and paid campaigns on their own.
 
