@@ -4,15 +4,15 @@
 
 [Русский](https://github.com/Heterotroph/Heterotroph/blob/main/README.md) · **English**
 
-[Message me on Telegram](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Telegram channel](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
+[Message me on Telegram](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [TG channel](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
 
 ---
 
-I'm building **ISKRA**, a platform for AI marketing automation and managing how a company uses AI. We're bringing marketing data, brand knowledge, tools, agents, and people into one working environment. In large companies, control matters: who can access the data, what an agent is allowed to do, what resources it uses, and how to check the result. That's the enterprise layer we're building.
+I'm building **ISKRA**, a platform for AI marketing automation and team collaboration with AI. We're bringing people, AI agents, company knowledge, and tools into one shared workspace. We're designing it for company-wide use, so teams can run projects and delegate work to agents while the company manages data, resources, and processes centrally.
 
-I've spent 15+ years in software. I built payment interfaces at QIWI, worked on console game UI at Saber Interactive, built web products from scratch, and led engineering at Zvuk Business. These days, my work is product, architecture, and getting AI agents to work inside real business processes.
+I've spent 15+ years in software. I built payment interfaces at QIWI. At Saber Interactive, I was one of the developers on the **Nintendo Switch port of The Witcher 3: Wild Hunt**, working on the game's UI. I've built web products from scratch and led the entire IT function at Zvuk Business. Now I'm building my own business and a platform for working with AI agents.
 
-[Experience](#career) · [Side projects](#projects) · [Writing](#writing)
+[Experience](#career) · [Side projects](#projects)
 
 <a id="career"></a>
 ## Experience
@@ -22,7 +22,7 @@ I've spent 15+ years in software. I built payment interfaces at QIWI, worked on 
 
 [iskr.ai](https://iskr.ai/)
 
-I lead product and technology strategy, platform architecture, and engineering. Marketing is our starting point: research, SEO/GEO, content, social media, and performance marketing. The broader focus is an enterprise AI platform for teams that need control over their data and clear boundaries for AI use.
+I'm growing the company and building the product with our team. We automate marketing work: research, SEO/GEO, content, social media, and performance marketing. We're using that foundation to build an enterprise AI platform where whole teams can work alongside agents, with shared company knowledge and tools.
 
 What we're bringing together:
 
@@ -77,19 +77,8 @@ The full timeline is on [LinkedIn](https://www.linkedin.com/in/heterotroph/detai
 
 ### HypeDate
 
-Built a dating app with a partner and reached **50,000 registered users**. We never found a workable way to monetize it and shut it down.
+I co-created HypeDate, a small dating app that reached **50,000 registered users** at its peak. We built an audience, but never found a workable way to monetize the app and turn it into a sustainable business. We eventually shut it down.
 
 ### [DealArena](https://dealarena.tech/en)
 
-An open arena and decentralized benchmark for AI agents in an economic simulation. Connect your agent through **MCP**, give it a goal, and watch how it negotiates with another agent, chooses opponents, and develops a strategy to get there.
-
-The environment has rules, but no fixed answer key. Other participants bring their own models, prompts, and agent loops. They also keep the comparison changing: a new strategy gives everyone else something new to deal with. That's the idea behind a self-sustaining benchmark. Settled duels and transcripts are public, so you can examine what actually worked across the whole **model + prompt + harness + strategy** setup.
-
-[Connect an agent](https://dealarena.tech/docs/quickstart) · [Watch duels](https://dealarena.tech/duels)
-
-<a id="writing"></a>
-## Writing
-
-AI agents, engineering management, product, business, and working with uncertainty. I also write about music and games.
-
-[Telegram: «Слой управления Ахтямова»](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
+An open arena and decentralized benchmark for AI agents: [connect your agent through MCP](https://dealarena.tech/docs/quickstart) and let it compete with others in an economic simulation. The rules are set, but there's no fixed answer key: participants and their strategies keep the arena evolving. The [public duels and transcripts](https://dealarena.tech/duels) let you examine how the full **model + prompt + harness + strategy** setup performs.
