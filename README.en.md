@@ -19,9 +19,13 @@ I've been in software for 15+ years. I built payment kiosk UIs at QIWI, was one 
 
 As co-founder, I run the business. As CTO, I build the platform.
 
-Our marketing agents handle research, SEO/GEO, content, social, and paid campaigns on their own. The harness is a different story. Here's what AI looks like in a lot of big companies right now: everyone's off in their own Claude Code or Codex, everyone has their own skills and prompts, and reports go stale in local folders. When someone quits, their work walks out the door with them. And management has no real visibility into who's doing what with AI, or what it's costing.
+**AI agents for marketing.** They run research, SEO/GEO, content, social, and paid campaigns on their own.
 
-In ISKRA, all of that lives in one multi-user, multi-tenant harness, so losing a person doesn't mean losing their work. Managers can see what people and agents are working on and adjust anyone's skills. And the agents can keep working toward big, metric-driven goals over the long haul without someone nudging them every step of the way.
+**An enterprise AI harness for large companies.** One multi-user, multi-tenant workspace instead of a sprawl of personal Claude Code and Codex setups.
+
+- When someone leaves, their skills, artifacts, and reports stay with the company.
+- Managers see who's working on what and what it costs, and can tune skills for anyone on the team.
+- Agents push big tasks toward target metrics over the long haul, without a human nudge at every step.
 
 ### Zvuk Business / Muzlab
 **CTO** · November 2023–February 2026 &nbsp;·&nbsp; **Team Lead** · August 2021–October 2023
