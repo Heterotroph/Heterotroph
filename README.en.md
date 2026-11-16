@@ -8,7 +8,7 @@
 
 ---
 
-I'm building **ISKRA**, a platform for AI marketing automation and a company's day-to-day work with AI. Marketing data, brand knowledge, tools, agents, and people share one working environment. In a large company, that comes with some very practical questions: who can access the data, what an agent is allowed to do, what resources it uses, and how anyone checks the result. We're building ISKRA's enterprise layer around that control.
+I'm building **ISKRA**, a platform for AI marketing automation and managing how a company uses AI. We're bringing marketing data, brand knowledge, tools, agents, and people into one working environment. In large companies, control matters: who can access the data, what an agent is allowed to do, what resources it uses, and how to check the result. That's the enterprise layer we're building.
 
 I've spent 15+ years in software. I built payment interfaces at QIWI, worked on console game UI at Saber Interactive, built web products from scratch, and led engineering at Zvuk Business. These days, my work is product, architecture, and getting AI agents to work inside real business processes.
 
@@ -18,7 +18,8 @@ I've spent 15+ years in software. I built payment interfaces at QIWI, worked on 
 ## Experience
 
 ### ISKRA
-**Co-founder / CTO · March 2026–present**  
+**Co-founder / CTO · March 2026–present**
+
 [iskr.ai](https://iskr.ai/)
 
 I lead product and technology strategy, platform architecture, and engineering. Marketing is our starting point: research, SEO/GEO, content, social media, and performance marketing. The broader focus is an enterprise AI platform for teams that need control over their data and clear boundaries for AI use.
@@ -33,9 +34,9 @@ What we're bringing together:
 ### Zvuk Business / Muzlab
 **CTO · November 2023–February 2026**
 
-Led 25–35 people across four engineering teams and first-line support. Responsible for technology strategy, product, architecture, production, hiring, and developing engineering leads. The B2B platform covered content, audio and video playback, billing, and distributed playback devices.
+Led the entire IT function: software development, system rollout, operations, maintenance, and first-line technical support. Managed 25–35 people across four engineering teams and support. Responsible for IT strategy, architecture, product development, hiring, and developing engineering leads.
 
-Worked with Sber's technology requirements, enterprise architecture, cybersecurity, audits, and risk management. Planning, releases, incidents, and changes to team structure were part of the job too.
+The B2B platform covered content, audio and video playback, billing, and distributed playback devices. Worked with Sber's technology requirements, enterprise architecture, cybersecurity, audits, and risk management.
 
 **Team Lead · August 2021–October 2023**
 
@@ -89,6 +90,6 @@ The environment has rules, but no fixed answer key. Other participants bring the
 <a id="writing"></a>
 ## Writing
 
-AI agents, engineering management, product, business, and working with uncertainty. Also music and games.
+AI agents, engineering management, product, business, and working with uncertainty. I also write about music and games.
 
 [Telegram: «Слой управления Ахтямова»](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
