@@ -8,7 +8,7 @@
 
 ### I'm building ISKRA AI, a platform where entire teams and companies work with AI agents in one organized workspace
 
-Marketing automation is the foundation, and on top of it we're building an enterprise hub for large companies. It's team-first by design, not built around a single user: the data and the work belong to the company instead of scattering across employees' laptops. The system pursues big, long-running goals on its own and checks progress against metrics, while the company sees what people and agents are doing with its data.
+Marketing automation is the foundation, and on top of it we're building an enterprise AI harness for large companies. It's team-first by design, not built around a single user: the data and the work belong to the company instead of scattering across employees' laptops. The system pursues big, long-running goals on its own and checks progress against metrics, while the company sees what people and agents are doing with its data.
 
 I've spent 15+ years in software. I built payment terminal interfaces at QIWI, was one of the UI developers behind the **Nintendo Switch port of The Witcher 3: Wild Hunt** at Saber Interactive, launched web products from scratch, and ran the entire IT function at Zvuk Business.
 
@@ -17,12 +17,12 @@ I've spent 15+ years in software. I built payment terminal interfaces at QIWI, w
 ### [ISKRA AI](https://iskr.ai/)
 **Co-founder & CTO** · March 2026–present
 
-As a co-founder, I drive the business side; as CTO, I build the platform. We automate marketing (research, SEO/GEO, content, social, performance) and are growing an enterprise AI hub on top of it:
+As a co-founder, I drive the business side; as CTO, I build the platform. The product has two sides:
 
-- **Shared context:** company knowledge, brand rules, decision history, and tools available to both people and agents.
-- **Agents and execution:** LLMs, MCP integrations, agent harnesses, and workflows that take a task to an action and a verified result.
-- **Enterprise control and data security:** roles and permissions, data and tool access, resource management, and human approvals.
-- **Observability and transparency:** what employees and agents do, which data they rely on, and how each task played out.
+- **AI marketing automation:** research, SEO/GEO, content, social, and performance marketing.
+- **Enterprise AI harness:** a multi-user, multi-tenant environment where teams and agents work from the company's shared data, skills, and tools.
+
+The harness is built for large companies that already have AI in day-to-day work. When every employee runs their own Claude Code or Codex, artifacts go stale on local machines and knowledge walks out the door whenever someone leaves. In ISKRA, everything is centralized from day one: skills, artifacts, data, analytics, reports, models, and playbooks. A manager can see what any employee and their agents are doing and control which skills that person can use. Under the hood are LLMs, MCP integrations, and workflows, wrapped in roles and permissions, data and tool access control, resource management, human approvals, and step-by-step observability.
 
 ### Zvuk Business / Muzlab
 **CTO** · November 2023–February 2026 &nbsp;·&nbsp; **Team Lead** · August 2021–October 2023
