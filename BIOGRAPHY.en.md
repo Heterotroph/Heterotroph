@@ -10,11 +10,11 @@ Co-founder and CTO of [ISKRA AI](https://iskr.ai/). Based in Saint Petersburg.
 
 ## Summary
 
-Ruslan Akhtyamov has worked in software for more than 15 years. He started in Almaty building interactive and payment interfaces, moved on to console UI for AAA games, built web products, and later ran the entire technology function of a company operating under the requirements of a large corporate group.
+I've worked in software for more than 15 years. I started in Almaty building interactive and payment interfaces, moved on to console UI for AAA games, built web products, and later ran the entire technology function of a company operating under the requirements of a large corporate group.
 
-Since September 2025 he has been co-founder and CTO of ISKRA AI. The company builds AI agents for marketing and an enterprise environment where employees and agents work together. As co-founder he works on the business side; as CTO he is responsible for the platform architecture, the engineering team, and product development.
+Since September 2025 I've been co-founder and CTO of ISKRA AI. The company builds AI agents for marketing and an enterprise environment where employees and agents work together. As co-founder I work on the business side; as CTO I'm responsible for the platform architecture, the engineering team, and product development.
 
-Before ISKRA he spent more than four years at Zvuk Business (Muzlab), the B2B unit of the Zvuk music service within the Sber ecosystem (Sber is Russia's largest bank). He joined as frontend team lead and later served as CTO with a team of 25 to 35 people.
+Before ISKRA I spent more than four years at Zvuk Business (Muzlab), the B2B unit of the Zvuk music service within the Sber ecosystem (Sber is Russia's largest bank). I joined as frontend team lead and later served as CTO with a team of 25 to 35 people.
 
 ## Areas of expertise
 
@@ -26,7 +26,7 @@ Before ISKRA he spent more than four years at Zvuk Business (Muzlab), the B2B un
 
 **Products and platforms.** B2B platforms (content management, audio and video playback, billing, customer tools, distributed playback devices), self-serve platforms, customer portals, and admin systems. Taking products from zero to MVP.
 
-**AI agents in production work.** A platform where agents work with a company's shared data and knowledge under human control. Coordinating several agents on one task, fixed documentation frameworks for agents, and regular independent review of their autonomous work. The methods are described in the writing listed below.
+**AI agents in production work.** A platform where agents work with a company's shared data and knowledge under human control. Coordinating several agents on one task, fixed documentation frameworks for agents, and regular independent review of their autonomous work. I write about these methods; see the list below.
 
 **Interfaces and performance.** UI for consoles and handheld devices with limited resources, rendering optimization, large frontend codebases, their incremental migration, and component libraries.
 
@@ -40,7 +40,7 @@ Before ISKRA he spent more than four years at Zvuk Business (Muzlab), the B2B un
 
 ISKRA AI works in two areas. The first is AI agents that carry out marketing work (research, SEO and GEO, content, social media, paid campaigns). The second is an enterprise environment where employees and agents work together on the company's shared data. It provides role and data access controls, AI usage and spend tracking by team, and keeps skills and work output inside the company; it can run in the cloud or inside the customer's own perimeter.
 
-Ruslan combines a co-founder's business responsibilities with the CTO role: platform architecture, the engineering team, and product development.
+I combine a co-founder's business responsibilities with the CTO role: platform architecture, the engineering team, and product development.
 
 In March 2026 the company raised an angel round; the investors include the founders of Muzlab ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), both in Russian). Customers include video-shoper.ru.
 
@@ -108,13 +108,13 @@ The B2B unit of the Zvuk music service within the Sber ecosystem, providing musi
 
 ## Own projects
 
-**[DealArena](https://dealarena.tech/en).** An open, arena-style benchmark for AI models and agents. Participants connect their agents over MCP, the agents negotiate with each other in an economic simulation, and the results and transcripts of finished duels are published. It compares the whole setup (model, prompt, harness, and strategy); since opponents are other participants' agents, the task set is not fixed in advance.
+**[DealArena](https://dealarena.tech/en).** My open, arena-style benchmark for AI models and agents. Participants connect their agents over MCP, the agents negotiate with each other in an economic simulation, and the results and transcripts of finished duels are published. It compares the whole setup (model, prompt, harness, and strategy); since opponents are other participants' agents, the task set is not fixed in advance.
 
-**[HypeDate](https://www.findmini.app/hypedatebot/).** A dating app on Telegram. It peaked at 50,000 registered users and was shut down because a workable business model never emerged.
+**[HypeDate](https://www.findmini.app/hypedatebot/).** A dating app on Telegram that I built. It peaked at 50,000 registered users, and I shut it down because a workable business model never emerged.
 
 ## Writing and public work
 
-- Telegram channel [«Слой управления Ахтямова»](https://t.me/databureau) (in Russian): notes on organizing work with AI agents (Claude and Codex working on one task together, a fixed set of documents as a framework for agents, an hourly review of autonomous work by a separate agent).
+- My Telegram channel [«Слой управления Ахтямова»](https://t.me/databureau) (in Russian): notes on organizing work with AI agents (Claude and Codex working on one task together, a fixed set of documents as a framework for agents, an hourly review of autonomous work by a separate agent).
 - Article [«Закат прикладного ПО»](https://www.linkedin.com/pulse/закат-прикладного-по-руслан-ахтямов-3vj1e/) ("The Sunset of Application Software", LinkedIn, 2026, in Russian) on narrow application software giving way to environments built around AI agents.
 - Short posts in Russian and English on [Threads](https://www.threads.com/@human_embryo) and [X](https://x.com/WildHeterotroph).
 - Bug reports and feature proposals for the open-source [Mastra](https://github.com/mastra-ai/mastra/issues?q=author%3AHeterotroph) framework (Observational Memory).
