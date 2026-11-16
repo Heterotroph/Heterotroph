@@ -21,8 +21,7 @@ As co-founder, I'm hands-on with the business. As CTO, I build the platform. In 
 
 **AI agents for marketing.** They run research, SEO/GEO, content, social, and paid campaigns on their own.
 
-> Almost as soon as we started using the service, we cut CPA on our video ads in half.
->
+> Almost as soon as we started using the service, we cut CPA on our video ads in half.<br>
 > <sub>Maksim Maltsev, marketing director at video-shoper.ru, an ISKRA customer ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), translated from Russian)</sub>
 
 **An enterprise AI workspace for large companies.** It gets rid of shadow AI: instead of a sprawl of personal ChatGPT, Claude Code, and Codex accounts, all agent work happens in one place the company controls.
