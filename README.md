@@ -4,7 +4,7 @@
 
 **Сооснователь и CTO [ИСКРА AI](https://iskr.ai/)** · Ruslan Akhtyamov
 
-[ТГ: @heterotroph](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Канал в ТГ](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
+[ТГ: @heterotroph](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Канал в ТГ](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph) · [Биография](https://github.com/Heterotroph/Heterotroph/blob/main/BIOGRAPHY.md)
 
 ### Строю ИСКРА AI, чтобы компании работали с AI-агентами всей командой
 
@@ -53,7 +53,7 @@
 | 2012–⁠2017 | **QIWI** · Flash Developer<br>Проектировал и выпускал интерфейсы платёжных терминалов (билеты, услуги, пополнение карт, погашение кредитов), участвовал в эксплуатации терминальной сети в Казахстане. |
 | 2010–⁠2012 | **CreonX / Surasak** · Web Developer / Designer<br>Веб- и медиапроекты, интерфейсы и интерактивная реклама. |
 
-<sub>Полная хронология в [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
+<sub>Подробная [профессиональная биография](https://github.com/Heterotroph/Heterotroph/blob/main/BIOGRAPHY.md), полная хронология в [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
 
 ---
 

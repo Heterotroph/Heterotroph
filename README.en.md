@@ -4,7 +4,7 @@
 
 **Co-founder & CTO, [ISKRA AI](https://iskr.ai/)** · Руслан Ахтямов
 
-[Telegram: @heterotroph](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Telegram channel (in Russian)](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
+[Telegram: @heterotroph](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Telegram channel (in Russian)](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph) · [Full bio](https://github.com/Heterotroph/Heterotroph/blob/main/BIOGRAPHY.en.md)
 
 ### I'm building ISKRA AI so whole companies can work with AI agents as one team
 
@@ -53,7 +53,7 @@ Ran engineering and IT for a B2B music and video service: content, players, bill
 | 2012–⁠2017 | **QIWI** · Flash Developer<br>Designed and shipped UIs for QIWI's payment kiosks (tickets, bill pay, card top-ups, loan payments), and helped run the kiosk network in Kazakhstan. |
 | 2010–⁠2012 | **CreonX / Surasak** · Web Developer / Designer<br>Web and media projects, UI, and interactive ads. |
 
-<sub>Full work history is on [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
+<sub>See the [full professional biography](https://github.com/Heterotroph/Heterotroph/blob/main/BIOGRAPHY.en.md); the complete work history is on [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
 
 ---
 
