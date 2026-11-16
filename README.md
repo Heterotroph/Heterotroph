@@ -15,7 +15,7 @@
 ## Компании и роли
 
 ### [ИСКРА AI](https://iskr.ai/)
-**Сооснователь и CTO** · март 2026 – сейчас
+**Сооснователь и CTO** · сентябрь 2025 – сейчас
 
 Как сооснователь веду задачи бизнеса, как CTO строю платформу. В марте 2026 года закрыли раунд от частных инвесторов, среди них основатели Muzlab, где я до этого был CTO ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta)).
 

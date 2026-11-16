@@ -15,7 +15,7 @@ I've been in software for 15+ years. I built payment kiosk UIs at QIWI, was one 
 ## What I've built
 
 ### [ISKRA AI](https://iskr.ai/)
-**Co-founder & CTO** · March 2026–present
+**Co-founder & CTO** · September 2025–present
 
 As co-founder, I run the business. As CTO, I build the platform. In March 2026 we closed a round from private investors, including the founders of Muzlab, where I was previously CTO ([CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla), [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), both in Russian).
 
