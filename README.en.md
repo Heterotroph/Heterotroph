@@ -1,84 +1,57 @@
+<p align="right"><sub><a href="https://github.com/Heterotroph/Heterotroph/blob/main/README.md">RU</a> · <b>EN</b></sub></p>
+
 # Ruslan Akhtyamov
 
-**Co-founder & CTO, [ISKRA](https://iskr.ai/) · Руслан Ахтямов**
+**Co-founder & CTO, [ISKRA AI](https://iskr.ai/)** · Руслан Ахтямов
 
-[Русский](https://github.com/Heterotroph/Heterotroph/blob/main/README.md) · **English**
+[Telegram: @heterotroph](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Telegram channel (RU)](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
 
-[Message me on Telegram](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [TG channel](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
+### I'm building ISKRA AI, a platform where entire teams and companies work with AI agents in one organized workspace
 
----
+Marketing automation is the foundation, and on top of it we're building an enterprise hub for large companies that need to know where their data goes and what their people are doing with AI.
 
-I'm building **ISKRA**, a platform for AI marketing automation and team collaboration with AI. We're bringing people, AI agents, company knowledge, and tools into one shared workspace. We're designing it for company-wide use, so teams can run projects and delegate work to agents while the company manages data, resources, and processes centrally.
+I've spent 15+ years in software. I built payment terminal interfaces at QIWI, was one of the UI developers behind the **Nintendo Switch port of The Witcher 3: Wild Hunt** at Saber Interactive, launched web products from scratch, and ran the entire IT function at Zvuk Business.
 
-I've spent 15+ years in software. I built payment interfaces at QIWI. At Saber Interactive, I was one of the developers on the **Nintendo Switch port of The Witcher 3: Wild Hunt**, working on the game's UI. I've built web products from scratch and led the entire IT function at Zvuk Business. Now I'm building my own business and a platform for working with AI agents.
+## What I've built
 
-[Experience](#career) · [Side projects](#projects)
+### [ISKRA AI](https://iskr.ai/)
+**Co-founder & CTO** · March 2026–present
 
-<a id="career"></a>
-## Experience
+As a co-founder, I'm running a business, not just the tech, so the job goes well beyond the CTO title. We automate marketing (research, SEO/GEO, content, social, performance) and are building an enterprise AI hub on top of it:
 
-### ISKRA
-**Co-founder / CTO · March 2026–present**
-
-[iskr.ai](https://iskr.ai/)
-
-I'm growing the company and building the product with our team. We automate marketing work: research, SEO/GEO, content, social media, and performance marketing. We're using that foundation to build an enterprise AI platform where whole teams can work alongside agents, with shared company knowledge and tools.
-
-What we're bringing together:
-
-- **Data and context:** company knowledge, brand rules, decision history, and the tools agents can use.
-- **Agents and execution:** LLMs, MCP integrations, agent harnesses, and workflows that connect a task to an action and a checked result.
-- **Enterprise control:** roles and permissions, data and tool access, resource management, and human approvals.
-- **Observability and transparency:** what employees and agents do, which data they use, and what happened while a task was running.
+- **Shared context:** company knowledge, brand rules, decision history, and tools available to both people and agents.
+- **Agents and execution:** LLMs, MCP integrations, agent harnesses, and workflows that take a task to an action and a verified result.
+- **Enterprise control and data security:** roles and permissions, data and tool access, resource management, and human approvals.
+- **Observability and transparency:** what employees and agents do, which data they rely on, and how each task played out.
 
 ### Zvuk Business / Muzlab
-**CTO · November 2023–February 2026**
+**CTO** · November 2023–February 2026 &nbsp;·&nbsp; **Team Lead** · August 2021–October 2023
 
-Led the entire IT function: software development, system rollout, operations, maintenance, and first-line technical support. Managed 25–35 people across four engineering teams and support. Responsible for IT strategy, architecture, product development, hiring, and developing engineering leads.
+Ran the entire IT function of a B2B service (content, audio and video players, billing, distributed playback devices).
 
-The B2B platform covered content, audio and video playback, billing, and distributed playback devices. Worked with Sber's technology requirements, enterprise architecture, cybersecurity, audits, and risk management.
+- **Scale:** four engineering teams plus support, 25–35 people in total.
+- **Scope:** software development, system rollout, operations, maintenance, and first-line technical support; IT strategy, architecture, product, hiring, and developing engineering leads.
+- **Enterprise context:** Sber's technology requirements, enterprise architecture, cybersecurity, audits, and risk management.
+- **Before CTO:** led frontend and the customer portal team, laid the foundation for the new portal, introduced shared standards and cross-team reviews, and moved the work from shipping features to product development.
 
-**Team Lead · August 2021–October 2023**
+### Earlier
 
-Frontend technical leadership and management of the customer portal team. Built the foundation of the new portal, introduced JS/TS standards and cross-team reviews, and worked on hiring and team development. TypeScript, React, GraphQL, Apollo Client, Storybook.
+| Years | Where and what |
+| :--- | :--- |
+| 2020–⁠2021 | **PropellerAds** · Senior Frontend Developer<br>Self-service platforms for advertisers and publishers: migrating a large production codebase from Angular to React, performance, and the internal component library. |
+| 2019–⁠2020 | **TheBoats.com** · Frontend Developer<br>Built a yacht rental platform from scratch, from search and booking to customer accounts and admin tools. |
+| 2017–⁠2019 | **Saber Interactive** · Integration Artist<br>One of the developers on a small UI team behind **The Witcher 3: Wild Hunt for Nintendo Switch**, adapting the interface to the hardware, the handheld screen, and console modes. UI for **Armored Warfare** on PS4 and Xbox One. |
+| 2012–⁠2017 | **QIWI** · Flash Developer<br>Designed and shipped payment terminal interfaces (tickets, services, card top-ups, loan repayments) and helped run the terminal network in Kazakhstan. |
+| 2010–⁠2012 | **CreonX / Surasak** · Web Developer / Designer<br>Web and media projects, interfaces, and interactive advertising. |
 
-### PropellerAds
-**Senior Frontend Developer · April 2020–July 2021**
+<sub>The full timeline, including teaching at NIIT Futurtech, is on [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
 
-Self-service platforms for advertisers and publishers: campaigns, traffic, reporting, and payments. Helped migrate a large production codebase from Angular to React. Also worked on performance, backend integrations, and the internal component library.
-
-### TheBoats.com
-**Frontend Developer · April 2019–March 2020**
-
-Built a yacht rental platform from scratch: map search, booking, extra services, documents, customer accounts, and administration tools. React, TypeScript, Next.js, server-side rendering, Node.js, and Mapbox.
-
-### Saber Interactive
-**Integration Artist · February 2017–March 2019**
-
-Developed, integrated, and optimized game interfaces for PC and consoles. As part of a small UI team, contributed to **The Witcher 3: Wild Hunt on Nintendo Switch**, adapting the interface to the hardware, screen, and console modes. Also worked on **Armored Warfare for PS4 and Xbox One**. Scaleform, ActionScript, JavaScript, C++.
-
-### QIWI
-**Flash Developer · April 2012–January 2017**
-
-Payment terminal interfaces for tickets, services, card top-ups, and loan repayments. Design, development, integration, testing, and rollout, plus some operational work on the terminal network in Kazakhstan.
-
-<details>
-<summary><strong>Earlier roles · 2010–2012</strong></summary>
-
-- **CreonX / Surasak · Flash Flex Web Developer / Designer · April 2010–January 2012.** Web and media projects, interfaces, and interactive advertising; design and frontend development.
-- **NIIT Futurtech · Teacher · January 2010–May 2011.** Part-time teaching.
-
-</details>
-
-The full timeline is on [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).
-
-<a id="projects"></a>
 ## Side projects
 
 ### HypeDate
 
-I co-created HypeDate, a small dating app that reached **50,000 registered users** at its peak. We built an audience, but never found a workable way to monetize the app and turn it into a sustainable business. We eventually shut it down.
+I created HypeDate, a small dating app that peaked at **50,000 registered users**. We built the audience but never found a business model that worked, so I shut it down. Two takeaways: the product needed marketing expertise we didn't have, and the dating market was far more crowded than it looked from the outside.
 
 ### [DealArena](https://dealarena.tech/en)
 
-An open arena and decentralized benchmark for AI agents: [connect your agent through MCP](https://dealarena.tech/docs/quickstart) and let it compete with others in an economic simulation. The rules are set, but there's no fixed answer key: participants and their strategies keep the arena evolving. The [public duels and transcripts](https://dealarena.tech/duels) let you examine how the full **model + prompt + harness + strategy** setup performs.
+An open, arena-style benchmark for AI agents: [connect your agent over MCP](https://dealarena.tech/docs/quickstart) and it negotiates with other agents in an economic simulation. Nothing is hardcoded. Your agent plays against other participants' agents, so the benchmark is decentralized and self-sustaining. The [public duels](https://dealarena.tech/duels) show which strategy and tactics a **model + prompt + harness** stack picks to hit its target metrics.
