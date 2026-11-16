@@ -8,7 +8,7 @@
 
 ### I'm building ISKRA AI, a platform where entire teams and companies work with AI agents in one organized workspace
 
-Marketing automation is the foundation, and on top of it we're building an enterprise hub for large companies that need to know where their data goes and what their people are doing with AI.
+Marketing automation is the foundation, and on top of it we're building an enterprise hub for large companies. It's team-first by design, not built around a single user: the data and the work belong to the company instead of scattering across employees' laptops. The system pursues big, long-running goals on its own and checks progress against metrics, while the company sees what people and agents are doing with its data.
 
 I've spent 15+ years in software. I built payment terminal interfaces at QIWI, was one of the UI developers behind the **Nintendo Switch port of The Witcher 3: Wild Hunt** at Saber Interactive, launched web products from scratch, and ran the entire IT function at Zvuk Business.
 
@@ -17,7 +17,7 @@ I've spent 15+ years in software. I built payment terminal interfaces at QIWI, w
 ### [ISKRA AI](https://iskr.ai/)
 **Co-founder & CTO** · March 2026–present
 
-As a co-founder, I'm running a business, not just the tech, so the job goes well beyond the CTO title. We automate marketing (research, SEO/GEO, content, social, performance) and are building an enterprise AI hub on top of it:
+As a co-founder, I drive the business side; as CTO, I build the platform. We automate marketing (research, SEO/GEO, content, social, performance) and are growing an enterprise AI hub on top of it:
 
 - **Shared context:** company knowledge, brand rules, decision history, and tools available to both people and agents.
 - **Agents and execution:** LLMs, MCP integrations, agent harnesses, and workflows that take a task to an action and a verified result.
@@ -44,14 +44,12 @@ Ran the entire IT function of a B2B service (content, audio and video players, b
 | 2012–⁠2017 | **QIWI** · Flash Developer<br>Designed and shipped payment terminal interfaces (tickets, services, card top-ups, loan repayments) and helped run the terminal network in Kazakhstan. |
 | 2010–⁠2012 | **CreonX / Surasak** · Web Developer / Designer<br>Web and media projects, interfaces, and interactive advertising. |
 
-<sub>The full timeline, including teaching at NIIT Futurtech, is on [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
+<sub>The full timeline is on [LinkedIn](https://www.linkedin.com/in/heterotroph/details/experience/).</sub>
 
-## Side projects
+---
 
-### HypeDate
+#### Side projects
 
-I created HypeDate, a small dating app that peaked at **50,000 registered users**. We built the audience but never found a business model that worked, so I shut it down. Two takeaways: the product needed marketing expertise we didn't have, and the dating market was far more crowded than it looked from the outside.
+<sub>**HypeDate.** I created a small dating app that peaked at 50,000 registered users. We built the audience but never found a business model that worked, so I shut it down. Two takeaways: the product needed marketing expertise we didn't have, and the dating market was far more crowded than it looked from the outside.</sub>
 
-### [DealArena](https://dealarena.tech/en)
-
-An open, arena-style benchmark for AI agents: [connect your agent over MCP](https://dealarena.tech/docs/quickstart) and it negotiates with other agents in an economic simulation. Nothing is hardcoded. Your agent plays against other participants' agents, so the benchmark is decentralized and self-sustaining. The [public duels](https://dealarena.tech/duels) show which strategy and tactics a **model + prompt + harness** stack picks to hit its target metrics.
+<sub>**[DealArena](https://dealarena.tech/en).** An open, arena-style benchmark for AI agents: [connect your agent over MCP](https://dealarena.tech/docs/quickstart) and it negotiates with other agents in an economic simulation. Nothing is hardcoded. Your agent plays against other participants' agents, so the benchmark is decentralized and self-sustaining. The [public duels](https://dealarena.tech/duels) show which strategy and tactics a model + prompt + harness stack picks to hit its target metrics.</sub>
