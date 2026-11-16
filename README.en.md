@@ -6,9 +6,9 @@
 
 [Telegram: @heterotroph](https://t.me/heterotroph) · [LinkedIn](https://www.linkedin.com/in/heterotroph/) · [Telegram channel (RU)](https://t.me/databureau) · [Threads](https://www.threads.com/@human_embryo) · [X](https://x.com/WildHeterotroph)
 
-### I'm building ISKRA AI, a platform where entire teams and companies work with AI agents in one organized workspace
+### I'm building ISKRA AI so whole companies can work with AI agents as one team
 
-Marketing automation is the foundation, and on top of it we're building an enterprise AI harness for large companies. It's team-first by design, not built around a single user: the data and the work belong to the company instead of scattering across employees' laptops. The system pursues big, long-running goals on its own and checks progress against metrics, while the company sees what people and agents are doing with its data.
+We started with marketing agents that do the work instead of just giving advice. Now we're growing an enterprise harness around them, where skills, data, and know-how belong to the company. They have no business living on employees' laptops anymore.
 
 I've spent 15+ years in software. I built payment terminal interfaces at QIWI, was one of the UI developers behind the **Nintendo Switch port of The Witcher 3: Wild Hunt** at Saber Interactive, launched web products from scratch, and ran the entire IT function at Zvuk Business.
 
@@ -17,12 +17,11 @@ I've spent 15+ years in software. I built payment terminal interfaces at QIWI, w
 ### [ISKRA AI](https://iskr.ai/)
 **Co-founder & CTO** · March 2026–present
 
-As a co-founder, I drive the business side; as CTO, I build the platform. The product has two sides:
+As a co-founder, I drive the business side; as CTO, I build the platform.
 
-- **AI marketing automation:** research, SEO/GEO, content, social, and performance marketing.
-- **Enterprise AI harness:** a multi-user, multi-tenant environment where teams and agents work from the company's shared data, skills, and tools.
+The marketing agents handle research, SEO/GEO, content, social, and performance on their own. The harness is for something else. Here's how AI usually looks inside a big company right now: everyone's in their own Claude Code or Codex, everyone has their own skills and prompts, and reports go stale in local folders. Someone quits, and their work walks out the door with them. Meanwhile, management has no real idea who's doing what with AI or what it costs.
 
-The harness is built for large companies that already have AI in day-to-day work. When every employee runs their own Claude Code or Codex, artifacts go stale on local machines and knowledge walks out the door whenever someone leaves. In ISKRA, everything is centralized from day one: skills, artifacts, data, analytics, reports, models, and playbooks. A manager can see what any employee and their agents are doing and control which skills that person can use. Under the hood are LLMs, MCP integrations, and workflows, wrapped in roles and permissions, data and tool access control, resource management, human approvals, and step-by-step observability.
+In ISKRA, all of that lives in one multi-user, multi-tenant harness, so losing an employee no longer means losing their work. Managers can see what people and agents are doing and tune the skills available to anyone on the team. And agents can keep pushing big goals forward against metrics for a long time, without someone nudging them at every step.
 
 ### Zvuk Business / Muzlab
 **CTO** · November 2023–February 2026 &nbsp;·&nbsp; **Team Lead** · August 2021–October 2023
