@@ -120,6 +120,7 @@ The B2B unit of the Zvuk music service within the Sber ecosystem, providing musi
 - Bug reports and feature proposals for the open-source [Mastra](https://github.com/mastra-ai/mastra/issues?q=author%3AHeterotroph) framework (Observational Memory).
 - Press coverage of the ISKRA round: [Forbes.ru](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme) (March 14, 2026), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla) (March 16, 2026), and [vc.ru](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta), all in Russian.
 - Quoted on market analysis in project management in a [column on RB.ru](https://rb.ru/columns/proektnoe-upravlenie-economiia/) (December 28, 2023, as CTO of Zvuk Business; in Russian).
+- Talk "State management approaches in the React ecosystem" at RamblerMeetup&Frontend, an online meetup by Rambler&Co and SberZvuk (February 10, 2022, as Team Lead at Zvuk Business; in Russian): [recording](https://www.youtube.com/watch?v=JGAO5Ycp758&t=4754s), [announcement on Habr](https://habr.com/ru/companies/rambler_and_co/articles/648077/).
 
 ## Education
 

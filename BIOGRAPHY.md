@@ -120,6 +120,7 @@ B2B-подразделение сервиса «Звук» в экосистем
 - Сообщения о дефектах и предложения по развитию открытого фреймворка [Mastra](https://github.com/mastra-ai/mastra/issues?q=author%3AHeterotroph) (подсистема Observational Memory).
 - Упоминания в прессе о раунде ИСКРЫ: [Forbes.ru](https://www.forbes.ru/svoi-biznes/557196-subbotnij-vencur-131-5-mln-v-uzum-i-obvinenie-fonda-galickogo-v-ekstremizme) (14.03.2026), [CNews](https://www.cnews.ru/news/line/2026-03-16_ii-platforma_iskra_privlekla) (16.03.2026) и [«Русский Венчур»](https://vc.ru/id4994551/2794736-iskra-privlekla-10-mln-rublej-dlja-avtomatizacii-marketingovogo-kontenta).
 - Комментарий об анализе рынка в проектном управлении в [колонке на RB.ru](https://rb.ru/columns/proektnoe-upravlenie-economiia/) (28.12.2023, в роли технического директора Звук Бизнес).
+- Доклад «Подходы стейт-менеджмента в экосистеме React» на онлайн-митапе RamblerMeetup&Frontend от Rambler&Co и СберЗвука (10.02.2022, в роли тимлида Звук Бизнес): [запись](https://www.youtube.com/watch?v=JGAO5Ycp758&t=4754s), [анонс на Хабре](https://habr.com/ru/companies/rambler_and_co/articles/648077/).
 
 ## Образование
 
